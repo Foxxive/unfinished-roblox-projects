@@ -11,8 +11,10 @@ Then there's the occasional game that was made for testing, like the maze algori
 
 **A:** Credit would be nice, but it's not really necessary, after all this is all stuff I've made free
 
-Q: Can I publish these games?
-A: Yeah, do whatever. Make 'em your own
+**Q:** Can I publish these games?
 
-Q: Can I sell them?
-A: no.
+**A:** Yeah, do whatever. Make 'em your own
+
+**Q:** Can I sell them?
+
+**A:** no.
