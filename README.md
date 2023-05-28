@@ -1,16 +1,15 @@
 # unfinished-roblox-projects
-Hey y'all! You're probably here from my youtube channel or Discord server. If you're not, welcome!
 
-Here I have a bunch of unfinished ROBLOX games that I have decided to make Open Sourced for you guys to edit to your liking.
-What exactly are these ROBLOX games? Well they're just games I left unfinished or never had time to work on or lost interest in them. 
+Honestly way too many of my unfinished ROBLOX games that I have decided to release for free
+Most of these games are any i'm either not proud of or had no motivation in finishing, but someone out there might.
 
-FAQ:
+# FAQ: (nobody actually asks anything but it looks professional)
+**Q:** Do I have to give credit?
 
-Q: Do I have to give credit?
-A: I would prefer if you did so, but it is not mandatory. :)
+**A:** Credit would be nice, but it's not really necessary, after all this is all stuff I've made free
 
 Q: Can I publish these games?
-A: Yes! You can 100% publish them and make them your own. Go nuts!
+A: Yeah, do whatever. Make 'em your own
 
 Q: Can I sell them?
-A: no
+A: no.
